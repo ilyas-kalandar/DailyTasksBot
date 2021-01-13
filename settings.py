@@ -1,0 +1,3 @@
+DB_FILENAME = "data.db"
+TOKEN = ""
+SLEEP_TIME = 28800
